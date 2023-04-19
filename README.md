@@ -1,2 +1,2 @@
-# python_conditionals
-if, elif, else, while loops, etc
+# python mini projects
+this file contains mini python projects
