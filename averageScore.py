@@ -7,10 +7,10 @@ test_3 = int(input("enter your score in test 3: "))
 adding_tests = test_1 + test_2 + test_3
 averageScore = (adding_tests) / 3
 
-hs = 95
-if averageScore >= hs:
+highest_score = 95
+if averageScore >= highest_score:
     print("Congratulations", name)
     print("your average is ", averageScore)
 
 else:
-    pass
+    ptint(name, "your average score is", averageScore)
